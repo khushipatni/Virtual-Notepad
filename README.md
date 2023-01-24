@@ -1,1 +1,2 @@
 # Virtual-Notepad
+Virtual Notepad is a hands-free digital drawing canvas for creating, recognizing and visualizing documents in air. This project is based on the concept of image processing and computer vision. It works on the principle that converts the hand movements in air, which are captured by a webcam, into a sequence of x, y coordinates on a 2D Cartesian plane, and visualizes them on a white canvas.
